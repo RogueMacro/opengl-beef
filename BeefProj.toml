@@ -1,0 +1,10 @@
+FileVersion = 1
+
+[Dependencies]
+corlib = "*"
+
+[Project]
+Name = "OpenGL"
+TargetType = "BeefLib"
+StartupObject = "GL.Program"
+ProcessorMacros = []
